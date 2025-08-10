@@ -19,10 +19,3 @@ It analyzes both documents and provides a **match score** along with **keyword s
 **Frontend:** HTML, CSS, JavaScript  
 **Backend:** Python (Flask)
 
----
-
-## 🚀 How to Run Locally
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Yogalakshmi-P/resume-matcher.git
-   cd resume-matcher
